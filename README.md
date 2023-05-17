@@ -10,7 +10,7 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimperial-qore%2FPreGAN&count_bg=%23FFC401&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
   </a>
   </div>
-The code for 'Vehicular Digital Twin Context Offloading for Collaborative Autonomous Driving: A MFG Empowered DRL Approach'
+The code for Vehicular Digital Twin Context Offloading for Collaborative Autonomous Driving: A MFG Empowered DRL Approach
 
 ## Quick Test
 Clone the repo:
