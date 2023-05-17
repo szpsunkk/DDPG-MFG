@@ -39,8 +39,8 @@ python task0.py
 
 |Baseline algoritms|details|
 | --- | --- |
-|AC|Actor-Critic algorithms|
-|DDPG|DRL algorithm|
-|TD3|DRL algorithm|
+|AC|Actor-Critic algorithms [paper](https://proceedings.neurips.cc/paper/1999/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)|
+|DDPG|DRL algorithm [paper](https://arxiv.org/pdf/1509.02971.pdf?source=post_page---------------------------)|
+|TD3|DRL algorithm [paper](http://proceedings.mlr.press/v80/fujimoto18a/fujimoto18a.pdf)|
 
 
