@@ -12,13 +12,35 @@
   </div>
 The code for Vehicular Digital Twin Context Offloading for Collaborative Autonomous Driving: A MFG Empowered DRL Approach
 
-
-install:
+## Quick Test
+Clone the repo:
 ```
-pip install torch  torchvision datetime numpy
+git clone https://github.com/szpsunkk/DDPG-MFG.git
+cd DDPG-MFG
+```
+
+Create `Conda` environment:
+```
+conda create -n DDPG-MFG python=3.8
+conda activate DDPG-MFG
+```
+
+Install dependencies of DRL:
+```
+sudo apt update & sudo apt upgrade
+pip install torch  torchvision datetime numpy random matplotlib seaborn
 ```
 
 run the main code:
 ```
 python task0.py
 ```
+## Baseline algorithms
+
+|Baseline algoritms|details|
+| --- | --- |
+|AC|Actor-Critic algorithms|
+|DDPG|DRL algorithm|
+|TD3|DRL algorithm|
+
+
